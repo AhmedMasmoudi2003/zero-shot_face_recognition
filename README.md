@@ -1,3 +1,5 @@
+<img width="1918" height="1020" alt="Screenshot 2026-11-08 232504" src="https://github.com/user-attachments/assets/d530fa29-488d-40ef-9e64-ca3323b295e8" />
+
 # Zero-Shot Face Recognition Attendance System
 
 A high-performance zero-shot face recognition system powered by **FaceNet (InceptionResnetV1)** and **Pinecone Vector Database**. The system recognizes individuals in real time without retraining the neural network—simply add a photo or enroll through your webcam, and similarity search identifies the person instantly.
@@ -192,3 +194,7 @@ cd Backend
 - **Computer Vision & UI**: OpenCV
 - **Backend API (Optional)**: FastAPI & Uvicorn
 - **Relational Database (Optional)**: PostgreSQL & SQLAlchemy
+
+
+<img width="1907" height="941" alt="Screenshot 2026-11-08 231400" src="https://github.com/user-attachments/assets/f244e7e2-22c1-4b6c-a2e8-c486e07c4098" />
+<img width="1900" height="942" alt="Screenshot 2026-11-08 231505" src="https://github.com/user-attachments/assets/2ebb4083-fece-48ad-86e0-0a32241d717d" />
